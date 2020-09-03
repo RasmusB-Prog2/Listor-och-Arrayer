@@ -1,0 +1,13 @@
+C:\Users\Rasmus\source\repos\NameReverser\NameReverser\bin\Debug\netcoreapp3.1\NameReverser.exe
+C:\Users\Rasmus\source\repos\NameReverser\NameReverser\bin\Debug\netcoreapp3.1\NameReverser.deps.json
+C:\Users\Rasmus\source\repos\NameReverser\NameReverser\bin\Debug\netcoreapp3.1\NameReverser.runtimeconfig.json
+C:\Users\Rasmus\source\repos\NameReverser\NameReverser\bin\Debug\netcoreapp3.1\NameReverser.runtimeconfig.dev.json
+C:\Users\Rasmus\source\repos\NameReverser\NameReverser\bin\Debug\netcoreapp3.1\NameReverser.dll
+C:\Users\Rasmus\source\repos\NameReverser\NameReverser\bin\Debug\netcoreapp3.1\NameReverser.pdb
+C:\Users\Rasmus\source\repos\NameReverser\NameReverser\obj\Debug\netcoreapp3.1\NameReverser.csprojAssemblyReference.cache
+C:\Users\Rasmus\source\repos\NameReverser\NameReverser\obj\Debug\netcoreapp3.1\NameReverser.AssemblyInfoInputs.cache
+C:\Users\Rasmus\source\repos\NameReverser\NameReverser\obj\Debug\netcoreapp3.1\NameReverser.AssemblyInfo.cs
+C:\Users\Rasmus\source\repos\NameReverser\NameReverser\obj\Debug\netcoreapp3.1\NameReverser.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus\source\repos\NameReverser\NameReverser\obj\Debug\netcoreapp3.1\NameReverser.dll
+C:\Users\Rasmus\source\repos\NameReverser\NameReverser\obj\Debug\netcoreapp3.1\NameReverser.pdb
+C:\Users\Rasmus\source\repos\NameReverser\NameReverser\obj\Debug\netcoreapp3.1\NameReverser.genruntimeconfig.cache
